@@ -45,8 +45,8 @@ int main(int argc, char *argv[])
 
   secure_log(args.filename, "##  MASTER  ## Successfully created log file.\n");
 
-  signal(SIGUSR1, signal_callback_handler);
-  signal(SIGUSR2, signal_callback_handler);
+  signal(SIGUSR1, signal_handler);
+  signal(SIGUSR2, signal_handler);
 
   secure_log(args.filename, "##  MASTER  ## Successfully initialized SIGUSR callback handlers.\n");
   sem_init(&semaphore, 0, 0);
@@ -67,13 +67,16 @@ void *first_thread(void *args)
 
 void *second_thread(void *args)
 {
-  secure_log("## THREAD 2 ## Entered. Setting up timer.\n")
+  pthread_args_t *thread_args = (pthread_args_t *) args;
+
+  secure_log(thread_args->filename, "## THREAD 2 ## Entered. Setting up timer.\n");
 
   while(exit_thread == false)
   {
 
   }
 
+  secure_log(thread_args->filename, "## THREAD 2 ## SIGUSR1 or SIGUSR2 received. Exiting normally.\n");
   pthread_exit(NULL);
 }
 
@@ -101,12 +104,7 @@ long double cpu_load(void)
 
 void signal_handler(int signal)
 {
-  if(signal == SIGUSR1)
-    secure_log("##  SIGNAL  ## USR1 received. Exiting the process normally.\n");
-
-  else if(signal == SIGUSR2)
-    secure_log("##  SIGNAL  ## USR2 received. Exiting the process normally.\n");
-
+  if((signal == SIGUSR1) || (signal == SIGUSR2))
     exit_thread = true;
 }
 
