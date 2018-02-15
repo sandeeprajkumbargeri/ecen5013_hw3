@@ -18,6 +18,8 @@ Written for ECEN 5013 - Homework 3 - in Spring 2018 at University of Colorado Bo
 #include <unistd.h>
 #include <string.h>
 #include <signal.h>
+#include <semaphore.h>
+#include <stdbool.h>
 #include <time.h>
 
 typedef struct pthread_args
