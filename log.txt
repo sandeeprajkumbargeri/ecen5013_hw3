@@ -1,0 +1,194 @@
+Sun Feb 18 23:11:09 2018  ##  MASTER  ## Started. POSIX Thread_ID: 140355899311872. Linux Thread ID: 20419.
+
+Sun Feb 18 23:11:09 2018  ##  MASTER  ## Successfully created log file.
+
+Sun Feb 18 23:11:09 2018  ##  MASTER  ## Successfully initialized SIGUSR callback handlers.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 1 ## Started. POSIX Thread_ID: 140355888858880. Linux Thread ID: 20420.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 2 ## Started. POSIX Thread_ID: 140355880466176. Linux Thread ID: 20421.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 2 ## Timer set up successfully.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 1 ## z found with 3 total occurances.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 1 ## q found with 3 total occurances.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 1 ## x found with 3 total occurances.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 2 ## CPU Usage: 0.875000.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 2 ## CPU Usage: 1.000000.
+
+Sun Feb 18 23:11:09 2018  ## THREAD 2 ## CPU Usage: 0.444444.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.375000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.666667.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.111111.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.625000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.500000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:10 2018  ## THREAD 2 ## CPU Usage: 0.857143.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 1.000000.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.250000.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.428571.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.222222.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.111111.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.714286.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 0.250000.
+
+Sun Feb 18 23:11:11 2018  ## THREAD 2 ## CPU Usage: 1.000000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.500000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.625000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.363636.
+
+Sun Feb 18 23:11:12 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.250000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.875000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.571429.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.333333.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.875000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:13 2018  ## THREAD 2 ## CPU Usage: 0.111111.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.100000.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.285714.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.750000.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.222222.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.076923.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.875000.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.875000.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.875000.
+
+Sun Feb 18 23:11:14 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.750000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.333333.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.600000.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.333333.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.111111.
+
+Sun Feb 18 23:11:15 2018  ## THREAD 2 ## CPU Usage: 0.500000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.571429.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.900000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.111111.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.750000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 1.000000.
+
+Sun Feb 18 23:11:16 2018  ## THREAD 2 ## CPU Usage: 0.555556.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.222222.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.857143.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.500000.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.625000.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.333333.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.888889.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.111111.
+
+Sun Feb 18 23:11:17 2018  ## THREAD 2 ## CPU Usage: 0.000000.
+
+Sun Feb 18 23:11:18 2018  ## THREAD 1 ## SIGUSR1 or SIGUSR2 received. Exiting normally.
+
+Sun Feb 18 23:11:18 2018  ## THREAD 2 ## CPU Usage: 0.125000.
+
+Sun Feb 18 23:11:18 2018  ## THREAD 2 ## SIGUSR1 or SIGUSR2 received. Exiting normally.
+
+Sun Feb 18 23:11:18 2018  ##  MASTER  ## SIGUSR1 or SIGUSR2 received. Exiting normally.
+
