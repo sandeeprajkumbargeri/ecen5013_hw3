@@ -158,6 +158,8 @@ void *second_thread(void *args)
     secure_log(thread_args->filename, message);
   }
 
+  timer_delete(&timer_id);
+
   //As the exit_thread becomes true, the above loop is exited and the threads exits after logging that it is exiting
   secure_log(thread_args->filename, "## THREAD 2 ## SIGUSR1 or SIGUSR2 received. Exiting normally.\n");
   pthread_exit(NULL);
